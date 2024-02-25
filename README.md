@@ -5,6 +5,7 @@ This is a elaborate marksheet project. For running this project on your localhos
 3. Then run the markhsheet.php
 
 The first 3 screenshots are for the markhsheet page.
+
 ![mark1](https://github.com/nure-jannat/Student-Attendance-System-using-PHP-HTML-CSS/assets/106591934/01f5d229-262c-49d8-990c-cfee6c6a47b4)
 
 
@@ -15,4 +16,5 @@ The first 3 screenshots are for the markhsheet page.
 
 
 This screenshot is for the view marks that has been submitted by the marksheet page.
+
 ![mark4](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/269d4d31-fd02-4c84-b5fe-cb65313c7b86)
